@@ -1,6 +1,6 @@
 # Neural‑Networks
 
-Repository of **notebooks and assignments** for the **Neural Networks and Deep Learning** course at the University of Buenos Aires. This collection includes theory, practical exercises, implementations and experiments related to neural network models covered in the course.
+Repository of **notebooks and assignments** for the **Neural Networks and Deep Learning** course. This collection includes theory, practical exercises, implementations and experiments related to neural network models covered in the course.
 
 ---
 

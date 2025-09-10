@@ -10,7 +10,8 @@ Repository of **notebooks and assignments** for the **Neural Networks and Deep L
 Neural‑Networks/
 │
 ├─ Hopfield‑Networks/
-|  └─ Images/         
+|  └─ Images/
+|  └─ ReportImages/         
 │  └─ HopfieldNetworks.ipynb
 |  └─ Report.pdf
 │  

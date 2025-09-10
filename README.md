@@ -9,9 +9,11 @@ Repository of **notebooks and assignments** for the **Neural Networks and Deep L
 ```text
 Neural‑Networks/
 │
-├─ Hopfield‑Networks/             # Assignments/notebooks on Hopfield Networks
-│  └─ (e.g.) Hopfield‑Examples.ipynb
-│
+├─ Hopfield‑Networks/
+|  └─ Images/         
+│  └─ HopfieldNetworks.ipynb
+|  └─ Report.pdf
+│  
 │
 ├─ LICENSE
 │

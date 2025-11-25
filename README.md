@@ -13,25 +13,30 @@ Neural‑Networks/
 |  └─ Images/
 |  └─ ReportImages/         
 │  └─ HopfieldNetworks.ipynb
-|  └─ Report.pdf
-│  
-│
+|
+├─ NN‑Models/
+|  └─ Images/
+|  └─ ReportImages/
+|  └─ Data/          
+│  └─ NNModels.ipynb
+|
 ├─ LICENSE
 │
 └─ README.md
 ```
 
-> The folder names indicate the main topic or network type explored.
+> The folder names indicate the main topic or network type explored. 
 
 ---
 
 ## 🧠 Thematic Content
 
-| Order | Topic                     | Associated notebook(s)                | Description                                                                 |
-|-------|---------------------------|---------------------------------------|-----------------------------------------------------------------------------|
-| 1     | Hopfield Networks         | `Hopfield‑Networks/…`                 | Implementation of Hopfield networks: associative memory, energy landscapes. |
-| 2     |   |                      |  |
-| …     | …                         | …                                     | …                                                                           |
+| Order | Topic                               | Associated notebook(s)         | Description                                                                                                 |
+|-------|--------------------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 1     | Hopfield Networks                    | `Hopfield-Networks/…`           | Implementation of Hopfield networks: associative memory, energy landscapes.                                 |
+| 2     | Basic Deep Learning Models           | `Neural-Networks/…`             | Collection of fundamental neural network models: Perceptron, MLPs, Boltzmann Machines, RBMs, CNNs & Autoencoders |
+| …     | …                                    | …                               | …                                                                                                           |
+
 
 
 ---

@@ -33,9 +33,9 @@ Neural‑Networks/
 
 | Order | Topic                               | Associated notebook(s)         | Description                                                                                                 |
 |-------|--------------------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1     | Hopfield Networks                    | `Hopfield-Networks/…`           | Implementation of Hopfield networks: associative memory, energy landscapes.                                 |
-| 2     | Basic Deep Learning Models           | `NN-Models/…`             | Collection of fundamental neural network models: Perceptron, MLPs, Boltzmann Machines, RBMs, CNNs & Autoencoders. |
-| …     | …                                    | …                               | …                                                                                                           |
+| 1     | Hopfield Networks                    | `Hopfield-Networks/…`           | Implementation of Hopfield networks.                                                   |
+| 2     | Basic Deep Learning Models           | `NN-Models/…`                   | Collection of fundamental neural network models: Perceptron, MLPs, Boltzmann Machines, RBMs, CNNs & Autoencoders. |
+| 3     | Kohonen Networks                     | `Kohonen-Networks/…`                         |Implementation of Kohonen Networks.                                                                                              
 
 
 

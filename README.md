@@ -10,15 +10,19 @@ Repository of **notebooks and assignments** for the **Neural Networks and Deep L
 Neural‑Networks/
 │
 ├─ Hopfield‑Networks/
-|  └─ Images/
-|  └─ ReportImages/         
+|  └─ Data/   
+|  └─ ReportImages/      
 │  └─ HopfieldNetworks.ipynb
 |
 ├─ NN‑Models/
-|  └─ Images/
+|  └─ Data/  
 |  └─ ReportImages/
-|  └─ Data/          
 │  └─ NNModels.ipynb
+|
+├─ Kohonen‑Networks/
+|  └─ Data/   
+|  └─ ReportImages/         
+│  └─ HopfieldNetworks.ipynb
 |
 ├─ LICENSE
 │
